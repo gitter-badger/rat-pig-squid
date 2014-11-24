@@ -1,4 +1,5 @@
 # Rat Pig Squid
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/saltymouse/rat-pig-squid?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 A squiddy project to help learn HTML5 apps based on the rock-paper-scissor game.
 
